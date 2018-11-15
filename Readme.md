@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAdvGridPainter.cs](./CS/ImageTextEdit/CustomGridControl/CustomAdvGridView/CustomAdvGridPainter.cs)
+* [CustomAdvGridView.cs](./CS/ImageTextEdit/CustomGridControl/CustomAdvGridView/CustomAdvGridView.cs)
+* [CustomGridControl.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridControl.cs) (VB: [CustomGridControl.vb](./VB/ImageTextEdit/CustomGridControl/CustomGridControl.vb))
+* [CustomGridInfoRegistrator.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridInfoRegistrator.cs) (VB: [CustomGridInfoRegistrator.vb](./VB/ImageTextEdit/CustomGridControl/CustomGridInfoRegistrator.vb))
+* [CustomGridPainter.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridView/CustomGridPainter.cs)
+* [CustomGridView.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridView/CustomGridView.cs)
+* [CustomIconTextEdit.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextEdit.cs) (VB: [CustomIconTextEdit.vb](./VB/ImageTextEdit/CustomIconTextEdit/CustomIconTextEdit.vb))
+* [CustomIconTextEditViewInfo.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextEditViewInfo.cs) (VB: [CustomIconTextEditViewInfo.vb](./VB/ImageTextEdit/CustomIconTextEdit/CustomIconTextEditViewInfo.vb))
+* [CustomIconTextPainter.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextPainter.cs) (VB: [CustomIconTextPainter.vb](./VB/ImageTextEdit/CustomIconTextEdit/CustomIconTextPainter.vb))
+* [RepositoryItemCustomIconTextEdit.cs](./CS/ImageTextEdit/CustomIconTextEdit/RepositoryItemCustomIconTextEdit.cs) (VB: [RepositoryItemCustomIconTextEdit.vb](./VB/ImageTextEdit/CustomIconTextEdit/RepositoryItemCustomIconTextEdit.vb))
+* **[Form1.cs](./CS/ImageTextEdit/Form1.cs) (VB: [Form1.vb](./VB/ImageTextEdit/Form1.vb))**
+* [Program.cs](./CS/ImageTextEdit/Program.cs) (VB: [Program.vb](./VB/ImageTextEdit/Program.vb))
+<!-- default file list end -->
 # How to create a GridView descendant displaying images against text in cells
 
 
