@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAdvGridPainter.cs](./CS/ImageTextEdit/CustomGridControl/CustomAdvGridView/CustomAdvGridPainter.cs)
+* [CustomAdvGridView.cs](./CS/ImageTextEdit/CustomGridControl/CustomAdvGridView/CustomAdvGridView.cs)
+* [CustomGridControl.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridControl.cs)
+* [CustomGridInfoRegistrator.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridInfoRegistrator.cs)
+* [CustomGridPainter.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridView/CustomGridPainter.cs)
+* [CustomGridView.cs](./CS/ImageTextEdit/CustomGridControl/CustomGridView/CustomGridView.cs)
+* **[CustomIconTextEdit.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextEdit.cs)**
+* [CustomIconTextEditViewInfo.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextEditViewInfo.cs)
+* [CustomIconTextPainter.cs](./CS/ImageTextEdit/CustomIconTextEdit/CustomIconTextPainter.cs)
+* [IIconSelector.cs](./CS/ImageTextEdit/CustomIconTextEdit/IIconSelector.cs)
+* [RepositoryItemCustomIconTextEdit.cs](./CS/ImageTextEdit/CustomIconTextEdit/RepositoryItemCustomIconTextEdit.cs)
+* [Form1.cs](./CS/ImageTextEdit/Form1.cs)
+<!-- default file list end -->
 # How to create a GridView descendant displaying images against text in cells
 
 
