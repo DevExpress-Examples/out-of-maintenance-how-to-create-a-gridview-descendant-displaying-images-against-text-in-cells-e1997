@@ -28,7 +28,7 @@
 <strong>OnSmartIconSelectionEventArgs.CellInfo</strong> - gets a <strong>GridCelInfo</strong> object that represent information about current <a href="//">GridCell</a>.<br />
 <strong>OnSmartIconSelectionEventArgs.IsActiveEditor</strong> - gets <i>True</i> value if the current <a href="//">GridCell</a> is active.<br />
 You should assign the index of an image that you want to display to the <strong>OnSmartIconSelectionEventArgs.ImageIndex</strong> property.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/K18337">How to force a GridView to display images against text in specified cells or columns</a><br />
+<a href="[https://www.devexpress.com/Support/Center/p/K1833](https://docs.devexpress.com/WindowsForms/643/controls-and-libraries/data-grid/views/grid-view/cells#how-to-put-an-image-in-a-grid-cell)7">Cells</a><br />
 <a href="https://www.devexpress.com/Support/Center/p/K18336">How to force a TextEdit to display an image against the text </a></p>
 
 <br/>
